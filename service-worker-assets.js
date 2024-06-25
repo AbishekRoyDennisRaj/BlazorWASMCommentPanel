@@ -61,7 +61,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-nTg1iArzi7nE3gZogYr98wdUfA1hDAem7zjK\/2byjH4=",
+      "hash": "sha256-OLJENG5LPGWtd0MpT+ZEhC0KmoAXR+n8b3Z9JZRoWWY=",
       "url": "index.html"
     },
     {
@@ -93,7 +93,7 @@
       "url": "syncfusion-blazor-pdfviewer.min.js"
     },
     {
-      "hash": "sha256-yRNGFqJe3L2m3T7SxLT2av+HMo5Mb8JfPgqyG1QGnJs=",
+      "hash": "sha256-x+X+M0Qy0VN+SqoE1\/2OXLA36sHDf3BK8he4WmhABKA=",
       "url": "syncfusion-blazor-sfpdfviewer.min.js"
     },
     {
@@ -117,11 +117,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-4dVA+b+1pvkMNi0L5leMBJnLkETSwiOnpYCGQV27Z3Y=",
+      "hash": "sha256-fhzGabCN2jiHcOXGZkQFzk\/BbdjSFtnacxbP9L32Q5w=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-VqkKCNokNyOj4t\/b8G6SUwkzoxHizmarf4KvIZKRxe0=",
+      "hash": "sha256-VQRrJdzCg3fjwbE112B49IYf8I8nfSNtwKfV+ZhcqFo=",
       "url": "_framework\/BlazorApp1.dll"
     },
     {
@@ -257,7 +257,7 @@
       "url": "_framework\/Syncfusion.Blazor.Popups.dll"
     },
     {
-      "hash": "sha256-QnL84B1CQ7gkOQsY6C4yfUpZDIl0sEan\/KrJUYHBPKY=",
+      "hash": "sha256-vGOTeAdD1EwKt\/FM6I\/84Md\/\/lb65hY8WuOe8sXm+T0=",
       "url": "_framework\/Syncfusion.Blazor.SfPdfViewer.dll"
     },
     {
@@ -277,7 +277,7 @@
       "url": "_framework\/Syncfusion.Compression.Portable.dll"
     },
     {
-      "hash": "sha256-Zb3C6OTss8e+X2M6QeM1niZ1OOijT6BeBzG91Ygggpw=",
+      "hash": "sha256-bs4Ts2xx7GqA5OORZRvr1qLvrmVXsFf749+VLNeLflw=",
       "url": "_framework\/Syncfusion.Pdf.Portable.dll"
     },
     {
@@ -833,5 +833,5 @@
       "url": "_content\/Syncfusion.Blazor.Themes\/tailwind-dark.css"
     }
   ],
-  "version": "F9kWrYBC"
+  "version": "umvY1XyU"
 };

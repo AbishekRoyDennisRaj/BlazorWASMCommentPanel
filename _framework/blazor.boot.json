@@ -1,7 +1,7 @@
 {
   "entryAssembly": "BlazorApp1",
   "resources": {
-    "hash": "sha256-PU5yitTG5utR8pvYqP4pTeCgu3efcowhoXhpnvo595o=",
+    "hash": "sha256-P/rZH7DbexFpAbuDk8tub/F5IbNRUgxE7ratp/mKLDQ=",
     "runtime": {
       "dotnet.6.0.28.dx0dorya7l.js": "sha256-IcNzTeuI09FfEwFhcYstX5183kyh6ivXWEE3zzf0Pls=",
       "dotnet.timezones.blat": "sha256-hKZ27N25m01CP4HR0RFvVj2dU0Cw2+EqatmI4zCXdHc=",
@@ -11,7 +11,7 @@
       "icudt_no_CJK.dat": "sha256-OxylFgLJlFqixsj+nLxYVsv5iZLvfIKMpLf9hrWaChA="
     },
     "assembly": {
-      "BlazorApp1.dll": "sha256-VqkKCNokNyOj4t/b8G6SUwkzoxHizmarf4KvIZKRxe0=",
+      "BlazorApp1.dll": "sha256-VQRrJdzCg3fjwbE112B49IYf8I8nfSNtwKfV+ZhcqFo=",
       "HarfBuzzSharp.dll": "sha256-gH6m6bSOf3tSzeRsMGGGfMrgqL1HezprMdoCTScsHE4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-PFG1sGtYcmGCW2wQ5hs2icbdbYF67/JkGGeb/os3AwU=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-ELQK+a/1fJtqfgGUiWxAeGjkLBXzN3TjcbvKRo+wWGI=",
@@ -45,12 +45,12 @@
       "Syncfusion.Blazor.Navigations.dll": "sha256-0pDkk3gtzXXNruXX756C9jR/zp+KbK4TlFhrjp6Mn6Y=",
       "Syncfusion.Blazor.Notifications.dll": "sha256-SOhtkOMMicZn/CcO9xgVsyum/UQ2zk/HEU8jzQM+Gi0=",
       "Syncfusion.Blazor.Popups.dll": "sha256-cPvQ/FdXvrtjW3SoiO9tbE+5Qx31ILScxruLv+jEaOY=",
-      "Syncfusion.Blazor.SfPdfViewer.dll": "sha256-QnL84B1CQ7gkOQsY6C4yfUpZDIl0sEan/KrJUYHBPKY=",
+      "Syncfusion.Blazor.SfPdfViewer.dll": "sha256-vGOTeAdD1EwKt/FM6I/84Md//lb65hY8WuOe8sXm+T0=",
       "Syncfusion.Blazor.Spinner.dll": "sha256-TFdD+G+FZyvzrsx8ra+InZwUTY4krWlpij1CrGNxOOA=",
       "Syncfusion.Blazor.SplitButtons.dll": "sha256-0xI+6WXpPK/Ypn7BCbOiHI/gtGTG5bn+/BkPcH7aFmw=",
       "Syncfusion.Blazor.Themes.dll": "sha256-kiwpOQp74lZhD9wn1/c+FfF9l7CFo7RqVoVBvtoeoOU=",
       "Syncfusion.Compression.Portable.dll": "sha256-ZYrXje9btnC5rslC+IsmXL9rRRcRFGTpUZubebuWAhc=",
-      "Syncfusion.Pdf.Portable.dll": "sha256-Zb3C6OTss8e+X2M6QeM1niZ1OOijT6BeBzG91Ygggpw=",
+      "Syncfusion.Pdf.Portable.dll": "sha256-bs4Ts2xx7GqA5OORZRvr1qLvrmVXsFf749+VLNeLflw=",
       "Syncfusion.SfPdfViewer.AspNet.Core.dll": "sha256-7bbEynDhJ6TXnWKoCN3v/ijk6J2cnnud9OltuS8gHto=",
       "Syncfusion.SkiaSharpHelper.Portable.dll": "sha256-xe7mCnmlmqSvNEMv46fUw9vB6h1yhTXDh7EuRNgyOG8=",
       "System.Collections.Concurrent.dll": "sha256-kmmsjPTTbmKcxiPPZyW2AEIyqNtr1I+Yrj5JeDS4QtQ=",
